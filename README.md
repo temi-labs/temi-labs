@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hey, I’m Temi
 
-<!--
-**temi-labs/temi-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a builder focused on turning ideas into working digital systems.
 
-Here are some ideas to get you started:
+I work at the intersection of:
+- 💻 Programming
+- 🎨 Design
+- ⚙️ Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I’m focused on:
+- Building practical projects from scratch
+- Improving my problem-solving and system thinking
+- Shipping consistently instead of overthinking
+
+---
+
+## 🛠️ What I’m Working With
+- Python — scripting, automation, problem-solving
+- React — building interactive user interfaces
+- HTML — semantic structure & layout
+- Java — fundamentals & OOP concepts
+- Git & GitHub — version control & collaboration
+- Canva — image editing, light design & logo work
+
+---
+
+## 📌 Current Focus
+- Strengthening fundamentals
+- Building small but real projects
+- Learning by doing (and breaking things)
+
+---
+
+## 🚀 Philosophy
+> Skills beat hype.  
+> Systems beat motivation.  
+> Consistency beats talent.
