@@ -29,9 +29,4 @@ Right now, I’m focused on:
 - Building small but real projects
 - Learning by doing (and breaking things)
 
----
 
-## 🚀 Philosophy
-> Skills beat hype.  
-> Systems beat motivation.  
-> Consistency beats talent.
